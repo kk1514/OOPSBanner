@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 .DS_Store
+=======
+.DB_Store
+>>>>>>> bb46736 (Added DS_Store to gitignore)
